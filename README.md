@@ -6,6 +6,7 @@ Solution of 1st problem
 #include<stdio.h>
 int main()
 {
+
     int a,b,n;
     int T=0;
     scanf("%d",&n);
@@ -21,6 +22,7 @@ int main()
 
 
     return 0;
+    
 }
 
 Solution of 2ed problem
@@ -32,6 +34,7 @@ Solution of 3rd problem
 #include<stdio.h>
 int main()
 {
+
     int m;
     int numbers = 0;
     scanf("%d",&m);
@@ -61,6 +64,7 @@ int main()
         printf("none");
     }
     return 0;
+    
 }
 
 Solution of 4th solution
